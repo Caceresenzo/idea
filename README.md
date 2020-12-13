@@ -9,10 +9,10 @@ Make a small game console emulator to play something like the first super mario.
 
 Make a desktop like interface with os.js for our server's services.
 
-## YggTorrent Indexer for Radarr and Sonnarr 
+## YggTorrent Indexer for Radarr and Sonarr 
 
-Make an indexer based on https://gitlab.onlineterroir.com/yggtorrent/yggtorrent 
+Make an indexer (based on https://gitlab.onlineterroir.com/yggtorrent/yggtorrent).
 
 ## File Sorter 
 
-Make an app which detect file creation. With a tag system move the file in the correct folder. 
+Make an app which detect file creation. With a tag system, move the file in the correct folder. 
