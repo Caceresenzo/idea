@@ -16,3 +16,9 @@ Make an indexer (based on https://gitlab.onlineterroir.com/yggtorrent/yggtorrent
 ## File Sorter 
 
 Make an app which detect file creation. With a tag system, move the file in the correct folder. 
+
+## OniiChan(.app)
+
+Home-made solution to control my server named 'imouto'. Written with Spring Boot and Vue.js.
+
+The imouto (little sister) is being helped by her onii-chan (big brother).
