@@ -1,5 +1,5 @@
 # idea
-Cool project idea to make with @thegostisdead
+Cool project idea to make with @thegostisdead and @IronJulo
 
 ## Small Game Console Emulator
 
