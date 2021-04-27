@@ -27,6 +27,6 @@ The imouto (little sister) is being helped by her onii-chan (big brother).
 
 HTML parser and renderer.
 
-## Chrome prenium Medium blog remover
+## Chrome premium Medium blog remover
 
-Chrome extension that remove all Prenium Link of Medium Blog in google search.
+Chrome extension that remove all premium links of Medium Blog in google search.
