@@ -27,3 +27,7 @@ The imouto (little sister) is being helped by her onii-chan (big brother).
 
 HTML parser and renderer.
 
+## Real time grepper extension (app name : We are all together)
+
+Create a grepper like extension but that display developers with the same search, and display a chat in real time.
+A google search is basically a room where developers are connected each other. 
